@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Region,Category,Product_Name,Sales,Cost,Customer_Name,Profit
+1000,2023-01-01,North,Technology,Laptop,4677,641,Sneha,4036
+1001,2023-01-02,West,Technology,Laptop,3488,2828,Amit,660
+1002,2023-01-03,South,Office Supplies,Chair,2586,1200,Vikas,1386
+1003,2023-01-04,North,Furniture,Pen,862,992,Rahul,-130
+1004,2023-01-05,West,Furniture,Chair,2403,2590,Amit,-187
+1005,2023-01-06,West,Office Supplies,Chair,4367,2521,Amit,1846
+1006,2023-01-07,West,Office Supplies,Phone,1959,3746,Sneha,-1787
+1007,2023-01-08,West,Furniture,Chair,2954,3920,Rahul,-966
+1008,2023-01-09,South,Technology,Phone,3225,3021,Vikas,204
+1009,2023-01-10,West,Office Supplies,Laptop,1042,1449,Vikas,-407
+1010,2023-01-11,South,Technology,Phone,2299,542,Vikas,1757
+1011,2023-01-12,East,Office Supplies,Desk,739,450,Sneha,289
+1012,2023-01-13,North,Technology,Pen,2942,3866,Rahul,-924
+1013,2023-01-14,West,Office Supplies,Printer,3393,2002,Rahul,1391
+1014,2023-01-15,East,Furniture,Laptop,2438,2822,Amit,-384
+1015,2023-01-16,North,Office Supplies,Desk,560,1765,Priya,-1205
+1016,2023-01-17,North,Furniture,Printer,524,339,Rahul,185
+1017,2023-01-18,North,Technology,Desk,4756,2406,Vikas,2350
+1018,2023-01-19,East,Furniture,Printer,3936,527,Vikas,3409
+1019,2023-01-20,South,Furniture,Printer,867,3842,Priya,-2975
+1020,2023-01-21,East,Office Supplies,Chair,4712,1190,Priya,3522
+1021,2023-01-22,West,Office Supplies,Desk,2520,2290,Amit,230
+1022,2023-01-23,West,Technology,Pen,4612,2575,Amit,2037
+1023,2023-01-24,East,Furniture,Desk,4572,865,Sneha,3707
+1024,2023-01-25,North,Technology,Laptop,2756,692,Vikas,2064
+1025,2023-01-26,South,Technology,Pen,1314,1022,Sneha,292
+1026,2023-01-27,South,Technology,Phone,3154,1342,Vikas,1812
+1027,2023-01-28,South,Office Supplies,Pen,2376,539,Sneha,1837
+1028,2023-01-29,South,Technology,Pen,4363,2273,Amit,2090
+1029,2023-01-30,North,Furniture,Pen,4227,2421,Rahul,1806
+1030,2023-01-31,South,Technology,Desk,4768,1601,Priya,3167
+1031,2023-02-01,North,Office Supplies,Desk,2091,690,Vikas,1401
+1032,2023-02-02,West,Furniture,Laptop,3983,3403,Amit,580
+1033,2023-02-03,North,Technology,Laptop,4299,1084,Amit,3215
+1034,2023-02-04,West,Furniture,Chair,4161,3228,Amit,933
+1035,2023-02-05,South,Office Supplies,Pen,932,1051,Sneha,-119
+1036,2023-02-06,East,Technology,Phone,2507,2497,Priya,10
+1037,2023-02-07,West,Technology,Phone,3410,2797,Amit,613
+1038,2023-02-08,West,Technology,Chair,877,2409,Sneha,-1532
+1039,2023-02-09,North,Office Supplies,Pen,4827,2692,Amit,2135
+1040,2023-02-10,East,Furniture,Pen,1381,1076,Sneha,305
+1041,2023-02-11,West,Technology,Pen,2320,1743,Rahul,577
+1042,2023-02-12,North,Technology,Laptop,3816,3204,Sneha,612
+1043,2023-02-13,South,Technology,Laptop,2616,2413,Vikas,203
+1044,2023-02-14,West,Technology,Laptop,3004,3868,Priya,-864
+1045,2023-02-15,South,Furniture,Desk,870,3266,Sneha,-2396
+1046,2023-02-16,West,Office Supplies,Phone,2084,554,Priya,1530
+1047,2023-02-17,West,Office Supplies,Phone,2135,2520,Sneha,-385
+1048,2023-02-18,East,Furniture,Printer,2619,1909,Priya,710
+1049,2023-02-19,West,Technology,Printer,3061,1712,Rahul,1349
+1050,2023-02-20,North,Furniture,Desk,629,3439,Vikas,-2810
+1051,2023-02-21,South,Furniture,Desk,4795,3817,Vikas,978
+1052,2023-02-22,South,Furniture,Phone,4237,2057,Vikas,2180
+1053,2023-02-23,South,Furniture,Pen,1624,2449,Sneha,-825
+1054,2023-02-24,West,Furniture,Printer,3137,2335,Vikas,802
+1055,2023-02-25,North,Furniture,Pen,3750,1548,Amit,2202
+1056,2023-02-26,West,Office Supplies,Chair,1935,2528,Amit,-593
+1057,2023-02-27,East,Office Supplies,Laptop,4692,1230,Vikas,3462
+1058,2023-02-28,North,Furniture,Phone,2079,1594,Vikas,485
+1059,2023-03-01,West,Furniture,Chair,4359,967,Sneha,3392
+1060,2023-03-02,West,Furniture,Desk,1825,3844,Vikas,-2019
+1061,2023-03-03,East,Office Supplies,Laptop,600,3488,Priya,-2888
+1062,2023-03-04,West,Technology,Desk,4932,2309,Rahul,2623
+1063,2023-03-05,East,Technology,Printer,4708,3260,Sneha,1448
+1064,2023-03-06,West,Technology,Pen,3806,3459,Sneha,347
+1065,2023-03-07,North,Furniture,Chair,872,3775,Amit,-2903
+1066,2023-03-08,East,Technology,Pen,4488,3905,Sneha,583
+1067,2023-03-09,North,Furniture,Laptop,3668,2706,Sneha,962
+1068,2023-03-10,North,Technology,Laptop,2006,997,Rahul,1009
+1069,2023-03-11,North,Office Supplies,Desk,4937,1463,Priya,3474
+1070,2023-03-12,South,Office Supplies,Pen,1526,1216,Rahul,310
+1071,2023-03-13,South,Furniture,Phone,4027,228,Priya,3799
+1072,2023-03-14,East,Technology,Chair,2751,3424,Amit,-673
+1073,2023-03-15,North,Technology,Laptop,743,3659,Rahul,-2916
+1074,2023-03-16,North,Technology,Laptop,874,666,Rahul,208
+1075,2023-03-17,South,Technology,Pen,4661,1885,Rahul,2776
+1076,2023-03-18,West,Technology,Printer,3012,3534,Vikas,-522
+1077,2023-03-19,North,Office Supplies,Chair,4806,2332,Vikas,2474
+1078,2023-03-20,South,Furniture,Chair,3970,1501,Rahul,2469
+1079,2023-03-21,East,Technology,Laptop,1301,3903,Sneha,-2602
+1080,2023-03-22,East,Office Supplies,Pen,3292,3555,Amit,-263
+1081,2023-03-23,West,Technology,Chair,4971,3170,Sneha,1801
+1082,2023-03-24,North,Office Supplies,Chair,4483,648,Amit,3835
+1083,2023-03-25,South,Furniture,Laptop,2528,2614,Amit,-86
+1084,2023-03-26,South,Technology,Laptop,1943,2635,Vikas,-692
+1085,2023-03-27,West,Technology,Desk,3285,2045,Amit,1240
+1086,2023-03-28,South,Office Supplies,Pen,1445,3053,Rahul,-1608
+1087,2023-03-29,South,Furniture,Desk,1348,2255,Rahul,-907
+1088,2023-03-30,West,Office Supplies,Pen,4780,1600,Amit,3180
+1089,2023-03-31,East,Office Supplies,Desk,819,3608,Vikas,-2789
+1090,2023-04-01,West,Furniture,Desk,1966,3731,Sneha,-1765
+1091,2023-04-02,West,Technology,Chair,3678,2899,Vikas,779
+1092,2023-04-03,East,Technology,Printer,3015,2228,Vikas,787
+1093,2023-04-04,East,Office Supplies,Laptop,2593,2634,Sneha,-41
+1094,2023-04-05,West,Furniture,Laptop,2098,3582,Rahul,-1484
+1095,2023-04-06,North,Furniture,Phone,3594,1741,Priya,1853
+1096,2023-04-07,East,Technology,Printer,4221,3033,Vikas,1188
+1097,2023-04-08,West,Technology,Pen,1856,3862,Rahul,-2006
+1098,2023-04-09,South,Office Supplies,Printer,2718,2125,Amit,593
+1099,2023-04-10,North,Technology,Laptop,1259,3094,Vikas,-1835
+1100,2023-04-11,South,Furniture,Printer,4996,1305,Vikas,3691
+1101,2023-04-12,East,Office Supplies,Pen,3887,1457,Amit,2430
+1102,2023-04-13,North,Office Supplies,Phone,4869,310,Priya,4559
+1103,2023-04-14,West,Furniture,Chair,1840,2868,Priya,-1028
+1104,2023-04-15,North,Technology,Pen,1377,1254,Sneha,123
+1105,2023-04-16,East,Technology,Desk,4777,1995,Amit,2782
+1106,2023-04-17,North,Furniture,Phone,581,328,Rahul,253
+1107,2023-04-18,West,Technology,Pen,4113,2085,Rahul,2028
+1108,2023-04-19,West,Technology,Pen,2746,2548,Priya,198
+1109,2023-04-20,North,Office Supplies,Desk,4624,2932,Sneha,1692
+1110,2023-04-21,West,Technology,Laptop,4523,1460,Sneha,3063
+1111,2023-04-22,North,Technology,Chair,4774,2875,Rahul,1899
+1112,2023-04-23,North,Furniture,Phone,4170,3205,Sneha,965
+1113,2023-04-24,North,Furniture,Printer,2302,2502,Priya,-200
+1114,2023-04-25,North,Furniture,Chair,4127,3272,Priya,855
+1115,2023-04-26,East,Furniture,Phone,3503,2661,Sneha,842
+1116,2023-04-27,West,Furniture,Chair,1938,1827,Priya,111
+1117,2023-04-28,North,Furniture,Laptop,1666,1130,Priya,536
+1118,2023-04-29,West,Office Supplies,Printer,2535,1210,Sneha,1325
+1119,2023-04-30,East,Technology,Desk,1580,3259,Priya,-1679
+1120,2023-05-01,West,Office Supplies,Desk,2396,1452,Amit,944
+1121,2023-05-02,West,Technology,Pen,2691,1411,Priya,1280
+1122,2023-05-03,South,Furniture,Desk,1131,1245,Vikas,-114
+1123,2023-05-04,South,Technology,Pen,3549,263,Rahul,3286
+1124,2023-05-05,South,Office Supplies,Phone,2856,1958,Amit,898
+1125,2023-05-06,North,Technology,Chair,3659,3776,Sneha,-117
+1126,2023-05-07,South,Technology,Printer,3478,1837,Rahul,1641
+1127,2023-05-08,South,Furniture,Printer,937,2905,Vikas,-1968
+1128,2023-05-09,South,Office Supplies,Pen,3320,3310,Rahul,10
+1129,2023-05-10,West,Furniture,Phone,4463,1943,Priya,2520
+1130,2023-05-11,North,Furniture,Printer,2702,3145,Rahul,-443
+1131,2023-05-12,West,Furniture,Printer,1992,2391,Sneha,-399
+1132,2023-05-13,South,Technology,Chair,2937,3249,Priya,-312
+1133,2023-05-14,East,Technology,Chair,2821,2974,Priya,-153
+1134,2023-05-15,North,Office Supplies,Pen,2488,1973,Vikas,515
+1135,2023-05-16,South,Technology,Chair,2860,3801,Rahul,-941
+1136,2023-05-17,East,Technology,Phone,2708,1460,Vikas,1248
+1137,2023-05-18,North,Office Supplies,Pen,837,2173,Priya,-1336
+1138,2023-05-19,East,Furniture,Phone,573,3678,Priya,-3105
+1139,2023-05-20,North,Office Supplies,Phone,1240,1685,Vikas,-445
+1140,2023-05-21,South,Office Supplies,Printer,2898,2874,Priya,24
+1141,2023-05-22,West,Technology,Desk,3901,3447,Rahul,454
+1142,2023-05-23,East,Office Supplies,Printer,4960,1930,Amit,3030
+1143,2023-05-24,East,Office Supplies,Chair,3748,467,Vikas,3281
+1144,2023-05-25,South,Technology,Desk,1239,2129,Sneha,-890
+1145,2023-05-26,North,Office Supplies,Laptop,3915,2746,Amit,1169
+1146,2023-05-27,West,Furniture,Desk,916,3056,Sneha,-2140
+1147,2023-05-28,South,Technology,Chair,2860,1147,Priya,1713
+1148,2023-05-29,South,Furniture,Chair,912,247,Amit,665
+1149,2023-05-30,West,Office Supplies,Chair,4767,972,Priya,3795
+1150,2023-05-31,North,Furniture,Pen,678,2130,Priya,-1452
+1151,2023-06-01,East,Furniture,Chair,3362,3769,Vikas,-407
+1152,2023-06-02,East,Technology,Laptop,2656,2502,Sneha,154
+1153,2023-06-03,West,Furniture,Pen,2969,846,Rahul,2123
+1154,2023-06-04,East,Furniture,Desk,3180,3646,Vikas,-466
+1155,2023-06-05,West,Furniture,Laptop,2550,3700,Vikas,-1150
+1156,2023-06-06,West,Office Supplies,Printer,1285,3600,Sneha,-2315
+1157,2023-06-07,West,Technology,Desk,4739,3664,Vikas,1075
+1158,2023-06-08,East,Furniture,Printer,1207,2448,Sneha,-1241
+1159,2023-06-09,South,Furniture,Printer,1865,692,Vikas,1173
+1160,2023-06-10,East,Technology,Pen,3665,218,Amit,3447
+1161,2023-06-11,East,Furniture,Printer,1323,1226,Sneha,97
+1162,2023-06-12,West,Office Supplies,Pen,2725,2445,Rahul,280
+1163,2023-06-13,East,Technology,Chair,1144,3493,Vikas,-2349
+1164,2023-06-14,West,Furniture,Desk,589,705,Amit,-116
+1165,2023-06-15,West,Office Supplies,Phone,2791,1453,Rahul,1338
+1166,2023-06-16,East,Furniture,Desk,4195,1836,Vikas,2359
+1167,2023-06-17,East,Office Supplies,Chair,3693,562,Vikas,3131
+1168,2023-06-18,West,Furniture,Desk,3156,2405,Priya,751
+1169,2023-06-19,North,Office Supplies,Pen,2895,1379,Vikas,1516
+1170,2023-06-20,South,Furniture,Chair,3352,2905,Rahul,447
+1171,2023-06-21,East,Office Supplies,Desk,1907,642,Rahul,1265
+1172,2023-06-22,West,Office Supplies,Desk,887,595,Amit,292
+1173,2023-06-23,East,Office Supplies,Pen,2182,3577,Priya,-1395
+1174,2023-06-24,South,Office Supplies,Printer,705,1552,Amit,-847
+1175,2023-06-25,East,Technology,Laptop,2599,544,Amit,2055
+1176,2023-06-26,South,Office Supplies,Desk,2816,1739,Vikas,1077
+1177,2023-06-27,North,Office Supplies,Phone,3414,1848,Amit,1566
+1178,2023-06-28,East,Office Supplies,Laptop,4178,2259,Sneha,1919
+1179,2023-06-29,East,Office Supplies,Phone,4292,3706,Priya,586
+1180,2023-06-30,West,Technology,Pen,2613,3927,Vikas,-1314
+1181,2023-07-01,North,Furniture,Desk,2636,331,Sneha,2305
+1182,2023-07-02,West,Technology,Chair,665,3244,Rahul,-2579
+1183,2023-07-03,East,Office Supplies,Pen,934,2180,Priya,-1246
+1184,2023-07-04,West,Technology,Desk,2468,2159,Rahul,309
+1185,2023-07-05,North,Technology,Printer,1728,1734,Rahul,-6
+1186,2023-07-06,North,Office Supplies,Chair,1528,2205,Vikas,-677
+1187,2023-07-07,East,Furniture,Phone,1698,357,Sneha,1341
+1188,2023-07-08,North,Office Supplies,Desk,4482,3197,Priya,1285
+1189,2023-07-09,East,Office Supplies,Pen,3813,267,Vikas,3546
+1190,2023-07-10,West,Furniture,Pen,3906,1792,Amit,2114
+1191,2023-07-11,East,Furniture,Desk,4088,2451,Priya,1637
+1192,2023-07-12,East,Office Supplies,Chair,1474,3647,Vikas,-2173
+1193,2023-07-13,West,Furniture,Desk,1727,1303,Priya,424
+1194,2023-07-14,North,Office Supplies,Laptop,3082,2549,Priya,533
+1195,2023-07-15,North,Furniture,Phone,1992,802,Vikas,1190
+1196,2023-07-16,North,Office Supplies,Desk,4267,2327,Rahul,1940
+1197,2023-07-17,South,Technology,Desk,1654,3497,Rahul,-1843
+1198,2023-07-18,East,Furniture,Chair,2161,1235,Vikas,926
+1199,2023-07-19,North,Furniture,Printer,2164,3775,Priya,-1611
+1200,2023-07-20,South,Office Supplies,Pen,3923,2381,Rahul,1542
+1201,2023-07-21,East,Office Supplies,Phone,684,1126,Sneha,-442
+1202,2023-07-22,West,Technology,Laptop,4282,3458,Amit,824
+1203,2023-07-23,East,Office Supplies,Pen,2738,1804,Amit,934
+1204,2023-07-24,East,Furniture,Laptop,3265,515,Sneha,2750
+1205,2023-07-25,West,Office Supplies,Chair,2176,744,Sneha,1432
+1206,2023-07-26,South,Technology,Laptop,793,3443,Sneha,-2650
+1207,2023-07-27,North,Furniture,Printer,4551,837,Priya,3714
+1208,2023-07-28,North,Office Supplies,Desk,2863,3588,Rahul,-725
+1209,2023-07-29,North,Technology,Phone,4935,757,Sneha,4178
+1210,2023-07-30,West,Office Supplies,Pen,4380,2533,Vikas,1847
+1211,2023-07-31,West,Furniture,Desk,1884,450,Amit,1434
+1212,2023-08-01,North,Office Supplies,Chair,4579,1379,Amit,3200
+1213,2023-08-02,East,Furniture,Desk,4369,995,Sneha,3374
+1214,2023-08-03,East,Technology,Printer,1576,1253,Rahul,323
+1215,2023-08-04,North,Technology,Laptop,3198,326,Sneha,2872
+1216,2023-08-05,North,Furniture,Pen,4296,2320,Vikas,1976
+1217,2023-08-06,West,Technology,Phone,1140,1299,Sneha,-159
+1218,2023-08-07,North,Office Supplies,Printer,4251,2345,Priya,1906
+1219,2023-08-08,South,Technology,Pen,4634,3478,Sneha,1156
+1220,2023-08-09,East,Furniture,Chair,2006,3822,Priya,-1816
+1221,2023-08-10,North,Office Supplies,Phone,693,3539,Rahul,-2846
+1222,2023-08-11,North,Technology,Desk,1646,3730,Rahul,-2084
+1223,2023-08-12,West,Office Supplies,Chair,3237,1982,Vikas,1255
+1224,2023-08-13,South,Technology,Desk,4827,2280,Rahul,2547
+1225,2023-08-14,West,Technology,Printer,1845,1914,Priya,-69
+1226,2023-08-15,North,Furniture,Pen,1865,3312,Rahul,-1447
+1227,2023-08-16,East,Technology,Printer,2982,1422,Priya,1560
+1228,2023-08-17,South,Furniture,Chair,1850,2534,Vikas,-684
+1229,2023-08-18,South,Technology,Laptop,3162,1886,Priya,1276
+1230,2023-08-19,South,Office Supplies,Chair,2537,1347,Sneha,1190
+1231,2023-08-20,West,Technology,Laptop,984,3859,Rahul,-2875
+1232,2023-08-21,North,Office Supplies,Chair,2699,1515,Amit,1184
+1233,2023-08-22,North,Furniture,Chair,2670,668,Sneha,2002
+1234,2023-08-23,North,Technology,Phone,2630,3212,Priya,-582
+1235,2023-08-24,South,Office Supplies,Laptop,589,1799,Sneha,-1210
+1236,2023-08-25,South,Technology,Laptop,1250,972,Sneha,278
+1237,2023-08-26,East,Office Supplies,Pen,3685,889,Sneha,2796
+1238,2023-08-27,South,Technology,Printer,655,1084,Sneha,-429
+1239,2023-08-28,North,Office Supplies,Desk,2037,1381,Priya,656
+1240,2023-08-29,North,Office Supplies,Printer,2813,1927,Rahul,886
+1241,2023-08-30,South,Technology,Laptop,4711,3077,Rahul,1634
+1242,2023-08-31,East,Technology,Phone,2373,803,Sneha,1570
+1243,2023-09-01,South,Office Supplies,Laptop,4991,3895,Amit,1096
+1244,2023-09-02,South,Furniture,Pen,2795,3483,Rahul,-688
+1245,2023-09-03,West,Furniture,Desk,4077,560,Priya,3517
+1246,2023-09-04,South,Furniture,Desk,554,2338,Priya,-1784
+1247,2023-09-05,North,Furniture,Chair,1816,3810,Rahul,-1994
+1248,2023-09-06,North,Technology,Phone,3698,785,Priya,2913
+1249,2023-09-07,North,Office Supplies,Pen,519,2170,Priya,-1651
+1250,2023-09-08,West,Furniture,Printer,1507,2471,Vikas,-964
+1251,2023-09-09,West,Furniture,Phone,4281,2009,Priya,2272
+1252,2023-09-10,South,Furniture,Chair,708,1935,Rahul,-1227
+1253,2023-09-11,East,Furniture,Laptop,3204,3259,Rahul,-55
+1254,2023-09-12,South,Office Supplies,Pen,2733,3051,Amit,-318
+1255,2023-09-13,West,Technology,Desk,2644,401,Sneha,2243
+1256,2023-09-14,South,Office Supplies,Laptop,2826,1956,Rahul,870
+1257,2023-09-15,West,Furniture,Laptop,1916,2296,Priya,-380
+1258,2023-09-16,North,Furniture,Chair,2384,575,Amit,1809
+1259,2023-09-17,North,Furniture,Printer,1693,3215,Vikas,-1522
+1260,2023-09-18,West,Furniture,Laptop,2366,2877,Amit,-511
+1261,2023-09-19,South,Office Supplies,Desk,602,2827,Priya,-2225
+1262,2023-09-20,East,Technology,Desk,2128,3907,Rahul,-1779
+1263,2023-09-21,North,Furniture,Printer,2656,3983,Amit,-1327
+1264,2023-09-22,East,Office Supplies,Printer,1407,2566,Priya,-1159
+1265,2023-09-23,West,Furniture,Chair,591,3216,Vikas,-2625
+1266,2023-09-24,West,Furniture,Phone,2341,2541,Amit,-200
+1267,2023-09-25,East,Furniture,Desk,1947,3277,Priya,-1330
+1268,2023-09-26,West,Office Supplies,Laptop,3418,3881,Sneha,-463
+1269,2023-09-27,South,Technology,Chair,1597,255,Rahul,1342
+1270,2023-09-28,South,Office Supplies,Printer,2380,3748,Priya,-1368
+1271,2023-09-29,South,Office Supplies,Laptop,4736,1654,Sneha,3082
+1272,2023-09-30,West,Office Supplies,Phone,3292,2286,Rahul,1006
+1273,2023-10-01,East,Office Supplies,Pen,1749,761,Rahul,988
+1274,2023-10-02,North,Office Supplies,Printer,4399,2512,Rahul,1887
+1275,2023-10-03,North,Technology,Phone,4099,3906,Sneha,193
+1276,2023-10-04,South,Furniture,Phone,1528,1417,Amit,111
+1277,2023-10-05,North,Furniture,Desk,2216,1546,Sneha,670
+1278,2023-10-06,West,Office Supplies,Pen,4411,1286,Sneha,3125
+1279,2023-10-07,East,Office Supplies,Desk,2876,2264,Priya,612
+1280,2023-10-08,West,Office Supplies,Phone,3833,1413,Priya,2420
+1281,2023-10-09,West,Furniture,Pen,1051,394,Vikas,657
+1282,2023-10-10,East,Furniture,Desk,835,3539,Sneha,-2704
+1283,2023-10-11,North,Furniture,Pen,4419,2663,Sneha,1756
+1284,2023-10-12,East,Office Supplies,Pen,4381,3666,Vikas,715
+1285,2023-10-13,West,Office Supplies,Printer,1162,220,Sneha,942
+1286,2023-10-14,East,Furniture,Phone,1741,1324,Sneha,417
+1287,2023-10-15,East,Office Supplies,Phone,1297,2006,Vikas,-709
+1288,2023-10-16,South,Technology,Chair,2301,3904,Vikas,-1603
+1289,2023-10-17,South,Furniture,Chair,3967,252,Vikas,3715
+1290,2023-10-18,West,Furniture,Chair,3441,655,Rahul,2786
+1291,2023-10-19,West,Office Supplies,Chair,3419,3941,Priya,-522
+1292,2023-10-20,North,Technology,Laptop,4294,2125,Vikas,2169
+1293,2023-10-21,West,Furniture,Chair,755,3542,Rahul,-2787
+1294,2023-10-22,North,Technology,Printer,1835,1850,Priya,-15
+1295,2023-10-23,North,Technology,Laptop,2046,950,Vikas,1096
+1296,2023-10-24,East,Office Supplies,Printer,2177,3223,Sneha,-1046
+1297,2023-10-25,East,Furniture,Chair,4651,1019,Sneha,3632
+1298,2023-10-26,West,Technology,Phone,907,3304,Priya,-2397
+1299,2023-10-27,South,Furniture,Laptop,1881,607,Amit,1274
+1300,2023-10-28,South,Office Supplies,Phone,2111,1985,Priya,126
+1301,2023-10-29,North,Furniture,Printer,2409,1059,Rahul,1350
+1302,2023-10-30,West,Office Supplies,Printer,4748,974,Sneha,3774
+1303,2023-10-31,North,Furniture,Laptop,3909,1937,Sneha,1972
+1304,2023-11-01,East,Furniture,Pen,3718,2368,Vikas,1350
+1305,2023-11-02,West,Office Supplies,Printer,4659,1289,Rahul,3370
+1306,2023-11-03,West,Technology,Pen,2065,1299,Amit,766
+1307,2023-11-04,South,Technology,Laptop,3493,1055,Rahul,2438
+1308,2023-11-05,West,Furniture,Printer,2910,2756,Rahul,154
+1309,2023-11-06,South,Furniture,Phone,4699,1934,Rahul,2765
+1310,2023-11-07,West,Furniture,Desk,3839,3056,Rahul,783
+1311,2023-11-08,East,Technology,Chair,812,3972,Amit,-3160
+1312,2023-11-09,North,Office Supplies,Chair,1812,1260,Rahul,552
+1313,2023-11-10,South,Office Supplies,Desk,873,1108,Amit,-235
+1314,2023-11-11,South,Office Supplies,Desk,1333,1131,Priya,202
+1315,2023-11-12,West,Technology,Laptop,2573,262,Rahul,2311
+1316,2023-11-13,West,Office Supplies,Printer,4544,1677,Vikas,2867
+1317,2023-11-14,West,Technology,Phone,3468,2054,Amit,1414
+1318,2023-11-15,South,Furniture,Chair,4743,642,Amit,4101
+1319,2023-11-16,South,Office Supplies,Desk,1448,788,Rahul,660
+1320,2023-11-17,South,Office Supplies,Pen,3004,3802,Vikas,-798
+1321,2023-11-18,West,Technology,Pen,4642,2632,Vikas,2010
+1322,2023-11-19,West,Furniture,Desk,4631,1225,Rahul,3406
+1323,2023-11-20,East,Office Supplies,Desk,2757,1948,Vikas,809
+1324,2023-11-21,East,Technology,Printer,1675,917,Amit,758
+1325,2023-11-22,East,Technology,Pen,2609,1826,Rahul,783
+1326,2023-11-23,North,Office Supplies,Phone,1705,1336,Rahul,369
+1327,2023-11-24,West,Furniture,Desk,2658,3379,Rahul,-721
+1328,2023-11-25,West,Office Supplies,Phone,1179,1373,Priya,-194
+1329,2023-11-26,South,Technology,Chair,1758,1814,Rahul,-56
+1330,2023-11-27,East,Technology,Laptop,2401,1493,Sneha,908
+1331,2023-11-28,West,Technology,Laptop,3487,1200,Sneha,2287
+1332,2023-11-29,South,Furniture,Chair,1094,3339,Amit,-2245
+1333,2023-11-30,West,Technology,Laptop,1986,2097,Priya,-111
+1334,2023-12-01,West,Furniture,Desk,601,2649,Priya,-2048
+1335,2023-12-02,South,Technology,Pen,2924,2509,Vikas,415
+1336,2023-12-03,South,Furniture,Printer,4780,226,Rahul,4554
+1337,2023-12-04,South,Office Supplies,Laptop,2582,2951,Sneha,-369
+1338,2023-12-05,North,Furniture,Chair,1486,1635,Priya,-149
+1339,2023-12-06,East,Office Supplies,Printer,1023,1973,Sneha,-950
+1340,2023-12-07,East,Furniture,Chair,3168,725,Sneha,2443
+1341,2023-12-08,North,Office Supplies,Desk,3711,3061,Rahul,650
+1342,2023-12-09,South,Furniture,Chair,2908,3704,Sneha,-796
+1343,2023-12-10,South,Office Supplies,Pen,4466,768,Amit,3698
+1344,2023-12-11,North,Technology,Desk,3749,258,Amit,3491
+1345,2023-12-12,West,Office Supplies,Laptop,4544,3289,Priya,1255
+1346,2023-12-13,North,Furniture,Printer,4542,1438,Priya,3104
+1347,2023-12-14,North,Technology,Phone,3711,3111,Vikas,600
+1348,2023-12-15,West,Technology,Pen,4032,3233,Sneha,799
+1349,2023-12-16,East,Office Supplies,Printer,3301,2468,Priya,833
+1350,2023-12-17,South,Office Supplies,Phone,2916,3477,Rahul,-561
+1351,2023-12-18,East,Technology,Laptop,2046,591,Priya,1455
+1352,2023-12-19,South,Office Supplies,Chair,1270,2530,Amit,-1260
+1353,2023-12-20,East,Technology,Pen,1901,2521,Sneha,-620
+1354,2023-12-21,North,Technology,Pen,575,2956,Amit,-2381
+1355,2023-12-22,East,Office Supplies,Desk,2466,1779,Priya,687
+1356,2023-12-23,North,Office Supplies,Desk,3623,2679,Priya,944
+1357,2023-12-24,South,Furniture,Desk,4509,2373,Amit,2136
+1358,2023-12-25,South,Office Supplies,Laptop,4590,1572,Vikas,3018
+1359,2023-12-26,South,Technology,Laptop,4215,3777,Vikas,438
+1360,2023-12-27,North,Technology,Pen,2820,3970,Priya,-1150
+1361,2023-12-28,West,Furniture,Phone,4378,2254,Vikas,2124
+1362,2023-12-29,North,Furniture,Printer,4856,1103,Amit,3753
+1363,2023-12-30,West,Technology,Printer,1415,2941,Sneha,-1526
+1364,2023-12-31,North,Furniture,Chair,3716,1728,Priya,1988
+1365,2024-01-01,North,Technology,Phone,2930,2274,Rahul,656
+1366,2024-01-02,North,Office Supplies,Laptop,1164,3907,Vikas,-2743
+1367,2024-01-03,North,Technology,Laptop,1791,915,Vikas,876
+1368,2024-01-04,South,Furniture,Desk,650,1317,Rahul,-667
+1369,2024-01-05,West,Office Supplies,Phone,4144,633,Rahul,3511
+1370,2024-01-06,West,Technology,Phone,1743,3804,Amit,-2061
+1371,2024-01-07,North,Technology,Laptop,2088,677,Amit,1411
+1372,2024-01-08,West,Furniture,Phone,2892,3135,Vikas,-243
+1373,2024-01-09,East,Furniture,Desk,3465,2688,Sneha,777
+1374,2024-01-10,East,Technology,Desk,2963,639,Amit,2324
+1375,2024-01-11,South,Office Supplies,Pen,1255,932,Amit,323
+1376,2024-01-12,South,Furniture,Laptop,4234,351,Priya,3883
+1377,2024-01-13,South,Office Supplies,Laptop,4208,2945,Priya,1263
+1378,2024-01-14,East,Furniture,Phone,1822,1873,Amit,-51
+1379,2024-01-15,South,Office Supplies,Pen,3283,2888,Sneha,395
+1380,2024-01-16,South,Technology,Phone,810,3886,Vikas,-3076
+1381,2024-01-17,North,Office Supplies,Pen,3142,603,Rahul,2539
+1382,2024-01-18,South,Technology,Pen,4363,2703,Amit,1660
+1383,2024-01-19,East,Office Supplies,Pen,801,3322,Sneha,-2521
+1384,2024-01-20,South,Technology,Printer,2471,2798,Sneha,-327
+1385,2024-01-21,South,Technology,Phone,1839,3211,Sneha,-1372
+1386,2024-01-22,North,Office Supplies,Phone,2464,1988,Amit,476
+1387,2024-01-23,North,Furniture,Chair,1678,3686,Amit,-2008
+1388,2024-01-24,South,Technology,Pen,4204,3821,Sneha,383
+1389,2024-01-25,South,Office Supplies,Laptop,3177,2176,Sneha,1001
+1390,2024-01-26,East,Technology,Phone,916,2118,Amit,-1202
+1391,2024-01-27,West,Technology,Chair,2322,845,Vikas,1477
+1392,2024-01-28,West,Office Supplies,Phone,3899,259,Amit,3640
+1393,2024-01-29,South,Technology,Laptop,4692,1698,Priya,2994
+1394,2024-01-30,West,Furniture,Printer,2225,645,Sneha,1580
+1395,2024-01-31,West,Office Supplies,Pen,1013,2023,Vikas,-1010
+1396,2024-02-01,West,Technology,Pen,4074,1166,Rahul,2908
+1397,2024-02-02,East,Office Supplies,Desk,2913,2593,Amit,320
+1398,2024-02-03,East,Office Supplies,Laptop,3690,3475,Sneha,215
+1399,2024-02-04,South,Furniture,Laptop,3022,1881,Amit,1141
+1400,2024-02-05,East,Office Supplies,Chair,1539,3303,Rahul,-1764
+1401,2024-02-06,West,Office Supplies,Chair,1726,871,Amit,855
+1402,2024-02-07,East,Office Supplies,Chair,4251,284,Vikas,3967
+1403,2024-02-08,North,Office Supplies,Printer,606,290,Rahul,316
+1404,2024-02-09,West,Office Supplies,Chair,4852,1263,Priya,3589
+1405,2024-02-10,West,Technology,Laptop,2117,957,Priya,1160
+1406,2024-02-11,South,Office Supplies,Chair,3758,2426,Sneha,1332
+1407,2024-02-12,South,Technology,Phone,3584,1810,Priya,1774
+1408,2024-02-13,South,Technology,Phone,931,2542,Amit,-1611
+1409,2024-02-14,East,Furniture,Desk,1290,2828,Vikas,-1538
+1410,2024-02-15,South,Furniture,Phone,4968,2627,Priya,2341
+1411,2024-02-16,South,Office Supplies,Desk,2518,751,Sneha,1767
+1412,2024-02-17,South,Furniture,Phone,4382,327,Amit,4055
+1413,2024-02-18,East,Technology,Printer,3896,3479,Sneha,417
+1414,2024-02-19,North,Office Supplies,Desk,4462,213,Sneha,4249
+1415,2024-02-20,West,Furniture,Phone,1330,1387,Vikas,-57
+1416,2024-02-21,South,Technology,Desk,4376,686,Vikas,3690
+1417,2024-02-22,North,Furniture,Pen,4423,2115,Sneha,2308
+1418,2024-02-23,West,Office Supplies,Desk,2720,3667,Sneha,-947
+1419,2024-02-24,South,Furniture,Phone,1221,559,Priya,662
+1420,2024-02-25,South,Office Supplies,Laptop,2788,531,Priya,2257
+1421,2024-02-26,East,Office Supplies,Chair,698,2232,Rahul,-1534
+1422,2024-02-27,North,Furniture,Desk,762,2046,Vikas,-1284
+1423,2024-02-28,East,Office Supplies,Pen,4004,1644,Priya,2360
+1424,2024-02-29,West,Office Supplies,Desk,4673,1306,Sneha,3367
+1425,2024-03-01,North,Office Supplies,Desk,2941,2451,Priya,490
+1426,2024-03-02,East,Office Supplies,Chair,969,2939,Rahul,-1970
+1427,2024-03-03,North,Furniture,Pen,2358,2410,Priya,-52
+1428,2024-03-04,East,Office Supplies,Desk,1688,2178,Sneha,-490
+1429,2024-03-05,North,Office Supplies,Desk,784,280,Priya,504
+1430,2024-03-06,North,Office Supplies,Phone,1470,740,Priya,730
+1431,2024-03-07,West,Office Supplies,Laptop,2038,2641,Vikas,-603
+1432,2024-03-08,West,Technology,Pen,2969,2093,Vikas,876
+1433,2024-03-09,West,Furniture,Printer,2258,208,Rahul,2050
+1434,2024-03-10,North,Furniture,Printer,4549,345,Rahul,4204
+1435,2024-03-11,North,Technology,Pen,2039,1976,Priya,63
+1436,2024-03-12,West,Furniture,Chair,611,436,Vikas,175
+1437,2024-03-13,South,Technology,Pen,2279,1444,Vikas,835
+1438,2024-03-14,West,Furniture,Pen,2481,1889,Priya,592
+1439,2024-03-15,East,Furniture,Printer,3038,3622,Vikas,-584
+1440,2024-03-16,West,Office Supplies,Laptop,4624,3395,Amit,1229
+1441,2024-03-17,North,Technology,Printer,2327,301,Sneha,2026
+1442,2024-03-18,West,Technology,Laptop,809,1923,Amit,-1114
+1443,2024-03-19,North,Furniture,Laptop,4366,1603,Amit,2763
+1444,2024-03-20,West,Technology,Phone,3941,1217,Amit,2724
+1445,2024-03-21,West,Office Supplies,Printer,4386,1283,Vikas,3103
+1446,2024-03-22,South,Furniture,Desk,4793,1410,Priya,3383
+1447,2024-03-23,East,Furniture,Pen,627,3546,Rahul,-2919
+1448,2024-03-24,South,Office Supplies,Chair,671,2772,Sneha,-2101
+1449,2024-03-25,North,Technology,Desk,1607,3145,Sneha,-1538
+1450,2024-03-26,North,Technology,Printer,4658,1507,Amit,3151
+1451,2024-03-27,West,Furniture,Printer,3774,722,Rahul,3052
+1452,2024-03-28,North,Furniture,Desk,1743,2187,Priya,-444
+1453,2024-03-29,West,Office Supplies,Phone,3412,2181,Rahul,1231
+1454,2024-03-30,North,Technology,Printer,4762,984,Rahul,3778
+1455,2024-03-31,North,Technology,Phone,4327,3555,Sneha,772
+1456,2024-04-01,South,Technology,Pen,3954,2884,Vikas,1070
+1457,2024-04-02,North,Office Supplies,Pen,4309,2760,Amit,1549
+1458,2024-04-03,East,Office Supplies,Chair,4401,2255,Vikas,2146
+1459,2024-04-04,East,Furniture,Printer,4381,2913,Sneha,1468
+1460,2024-04-05,East,Furniture,Desk,2903,2315,Rahul,588
+1461,2024-04-06,North,Furniture,Phone,2798,2051,Amit,747
+1462,2024-04-07,North,Furniture,Chair,3292,2620,Priya,672
+1463,2024-04-08,East,Technology,Laptop,779,711,Priya,68
+1464,2024-04-09,North,Technology,Chair,1646,2668,Rahul,-1022
+1465,2024-04-10,East,Technology,Phone,4412,2676,Vikas,1736
+1466,2024-04-11,West,Technology,Printer,4125,3997,Vikas,128
+1467,2024-04-12,East,Office Supplies,Printer,3809,2873,Amit,936
+1468,2024-04-13,West,Office Supplies,Laptop,1315,1982,Sneha,-667
+1469,2024-04-14,West,Technology,Phone,2179,2759,Vikas,-580
+1470,2024-04-15,North,Furniture,Printer,3154,3472,Priya,-318
+1471,2024-04-16,South,Technology,Printer,2521,2871,Priya,-350
+1472,2024-04-17,South,Furniture,Phone,1310,3438,Priya,-2128
+1473,2024-04-18,South,Office Supplies,Chair,1012,2162,Vikas,-1150
+1474,2024-04-19,North,Office Supplies,Pen,3450,3241,Rahul,209
+1475,2024-04-20,North,Furniture,Desk,3639,3948,Vikas,-309
+1476,2024-04-21,West,Technology,Chair,4883,2316,Vikas,2567
+1477,2024-04-22,West,Technology,Phone,3345,291,Amit,3054
+1478,2024-04-23,South,Furniture,Pen,2487,981,Sneha,1506
+1479,2024-04-24,West,Technology,Chair,4593,3925,Vikas,668
+1480,2024-04-25,North,Technology,Printer,1786,3185,Vikas,-1399
+1481,2024-04-26,West,Office Supplies,Pen,4829,528,Sneha,4301
+1482,2024-04-27,North,Furniture,Pen,4057,2894,Priya,1163
+1483,2024-04-28,South,Technology,Phone,4863,1574,Sneha,3289
+1484,2024-04-29,East,Office Supplies,Printer,3909,1364,Vikas,2545
+1485,2024-04-30,East,Technology,Printer,3371,810,Rahul,2561
+1486,2024-05-01,North,Technology,Printer,1823,2123,Amit,-300
+1487,2024-05-02,East,Furniture,Pen,1011,2480,Amit,-1469
+1488,2024-05-03,South,Technology,Chair,3179,3800,Sneha,-621
+1489,2024-05-04,West,Office Supplies,Desk,4866,2509,Sneha,2357
+1490,2024-05-05,West,Technology,Laptop,770,3824,Priya,-3054
+1491,2024-05-06,West,Furniture,Desk,2628,1663,Amit,965
+1492,2024-05-07,South,Technology,Laptop,947,3173,Sneha,-2226
+1493,2024-05-08,East,Technology,Phone,4969,1917,Vikas,3052
+1494,2024-05-09,South,Furniture,Desk,543,478,Vikas,65
+1495,2024-05-10,East,Technology,Pen,4299,557,Rahul,3742
+1496,2024-05-11,West,Technology,Laptop,3083,2783,Rahul,300
+1497,2024-05-12,East,Furniture,Printer,3860,451,Sneha,3409
+1498,2024-05-13,South,Technology,Phone,3381,1132,Priya,2249
+1499,2024-05-14,East,Office Supplies,Desk,3337,387,Priya,2950
