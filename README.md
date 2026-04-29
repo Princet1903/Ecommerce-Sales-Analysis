@@ -18,6 +18,13 @@ This project analyzes e-commerce sales data using Excel, SQL, and Power BI.
 - SQL Queries
 - Power BI Dashboard
 - Excel file
+- dashbord screenshots
+
+## 📊 Power BI Dashboard
+![Power BI Dashboard](Powerbi_dashboard.png.png)
+
+## 📊 Excel Dashboard
+![Excel Dashboard](Excel_dashboard.png.png)
 
 ## 🚀 Outcome
 Built an interactive dashboard for business insights.
