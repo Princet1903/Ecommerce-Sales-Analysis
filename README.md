@@ -1,24 +1,46 @@
-# E-commerce Sales Analysis Dashboard
+# 📊 E-Commerce Sales Analysis Dashboard
 
-## 📊 Project Overview
-This project analyzes e-commerce sales data using Excel, SQL, and Power BI.
+## 🚀 Project Overview
+Developed an end-to-end E-Commerce Sales Analysis solution using SQL, Excel, and Power BI. The project focuses on analyzing sales performance, customer purchasing behavior, profitability, and business KPIs to support data-driven decision-making.
 
-## 🛠 Tools Used
-- Excel
-- SQL
-- Power BI
+---
 
-## 📈 Key Insights
-- West region has highest sales
-- Technology category performs best
-- Sales increase in later months
+## 🛠️ Tools & Technologies
+- SQL (Data Extraction & Analysis)
+- Microsoft Excel (Data Cleaning & Validation)
+- Power BI (Dashboard & Visualization)
+- DAX Measures
+- Data Modeling
 
-## 📁 Files
-- Dataset (CSV)
-- SQL Queries
-- Power BI Dashboard
-- Excel file
-- Dashboard screenshots
+---
+
+## 📈 Key KPIs
+✔ Total Sales Revenue  
+✔ Total Orders  
+✔ Profit Margin  
+✔ Average Order Value  
+✔ Customer Count  
+✔ Top Performing Products  
+
+---
+
+## 🎯 Dashboard Features
+- Interactive Power BI Dashboard
+- Sales Trend Analysis
+- Region-wise Performance Analysis
+- Product Category Analysis
+- Customer Insights
+- Profitability Analysis
+- Dynamic Filters and Slicers
+
+---
+
+## 💡 Business Insights
+- Identified top-performing products and categories.
+- Analyzed sales and profit trends across regions.
+- Evaluated customer purchasing patterns.
+- Highlighted revenue growth opportunities.
+- Created interactive visualizations for business decision-making.
 
 ## 📊 Power BI Dashboard
 ![Power BI Dashboard](Powerbi_dashboard.png.png)
@@ -26,5 +48,4 @@ This project analyzes e-commerce sales data using Excel, SQL, and Power BI.
 ## 📊 Excel Dashboard
 ![Excel Dashboard](Excel_dashboard.png.png)
 
-## 🚀 Outcome
-Built an interactive dashboard for business insights.
+ 
